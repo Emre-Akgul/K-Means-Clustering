@@ -18,7 +18,7 @@ Utility Functions: Provides utility functions for generating random points and i
 To utilize this KMeans clustering project:
 
 Clone the repository:
-  git clone https://github.com/Emre-Akgul/K-Means-Clustering/blob/main/README.md
+  git clone https://github.com/Emre-Akgul/K-Means-Clustering/
 
 Ensure Scala and sbt are installed on your system. In the project directory, use the following command to run sbt:
   sbt
